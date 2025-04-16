@@ -20,12 +20,12 @@ const Footer = () => {
 
 
 <div className="footer__social">
-<a href="https://www.linkedin.com/in/aniket17jha/" className="home__social-icon" target ="_blank">
+<a href="https://www.linkedin.com/in/aniket17jha/" className="home__social-icon" target ="">
             <i class="bx bxl-linkedin"></i>
         </a>
 
 
-        <a href="https://github.com/aniket18jha" className="home__social-icon" target ="_blank">
+        <a href="https://github.com/aniket18jha" className="home__social-icon" target ="">
         <i class="bx bxl-github"></i>
         </a>
         </div>
